@@ -1,5 +1,7 @@
 # mise
 
-find ./ -type f -exec sed -i 's/string1/string2/gI' {} \;
+https://stackoverflow.com/questions/11392478/how-to-replace-a-string-in-multiple-files-in-linux-command-line/11392505
+
+
 
 
